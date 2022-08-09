@@ -7,13 +7,17 @@ The purpose of the new analysis is well defined.
 ## Results:
 
  * Retirement Titles
- ![Mentoring_Eligibility](/Retirement_Titles.png)
+ 
+![Mentoring_Eligibility](/Pewlett-Hackard-Analysis/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Retirement_Titles.png)
  * Unique Titles
- ![Mentoring_Eligibility](/Unique_Titles.png) 
+ 
+![Mentoring_Eligibility](/Pewlett-Hackard-Analysis/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Unique_Titles.png) 
  * Retiring Titles
- ![Mentoring_Eligibility](/Retiring_Titles.png) 
+ 
+![Mentoring_Eligibility](/Pewlett-Hackard-Analysis/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Retiring_Titles.png) 
  * Mentoring Eligibility
- ![Mentoring_Eligibility](/Mentoring_Eligibility.png)
+ 
+![Mentoring_Eligibility](/Pewlett-Hackard-Analysis/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Mentoring_Eligibility.png)
  
 ## Summary:
 
